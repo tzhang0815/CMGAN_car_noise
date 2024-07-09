@@ -14,10 +14,10 @@ Hints: the model training is conducted on the RUG High Performance Computing clu
 
 1-Environment activation
 
-`python3 -m venv $HOME/venvs/cmgan1
+```python3 -m venv $HOME/venvs/cmgan1
 source $HOME/venvs/cmgan1/bin/activate
 module load Python/3.8.16-GCCcore-11.2.0
-module load PyTorch/1.12.0-foss-2022a-CUDA-11.7.0`
+module load PyTorch/1.12.0-foss-2022a-CUDA-11.7.0```
 
 ## Data Preparation
 
